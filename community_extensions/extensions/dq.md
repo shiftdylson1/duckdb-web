@@ -103,10 +103,10 @@ docs:
     make release     # → build/release/dq.duckdb_extension
     ```
 
-extension_star_count: 0
-extension_star_count_pretty: 0
-extension_download_count: null
-extension_download_count_pretty: n/a
+extension_star_count: 1
+extension_star_count_pretty: 1
+extension_download_count: 31
+extension_download_count_pretty: 31
 image: '/images/community_extensions/social_preview/preview_community_extension_dq.png'
 layout: community_extension_doc
 ---

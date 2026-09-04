@@ -160,8 +160,8 @@ docs:
 
 extension_star_count: 5
 extension_star_count_pretty: 5
-extension_download_count: 626
-extension_download_count_pretty: 626
+extension_download_count: 650
+extension_download_count_pretty: 650
 image: '/images/community_extensions/social_preview/preview_community_extension_zim.png'
 layout: community_extension_doc
 ---

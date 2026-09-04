@@ -71,8 +71,8 @@ docs:
 
 extension_star_count: 6
 extension_star_count_pretty: 6
-extension_download_count: 384
-extension_download_count_pretty: 384
+extension_download_count: 403
+extension_download_count_pretty: 403
 image: '/images/community_extensions/social_preview/preview_community_extension_fusion_scanner.png'
 layout: community_extension_doc
 ---

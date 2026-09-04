@@ -95,8 +95,8 @@ docs:
 
 extension_star_count: 50
 extension_star_count_pretty: 50
-extension_download_count: 667
-extension_download_count_pretty: 667
+extension_download_count: 642
+extension_download_count_pretty: 642
 image: '/images/community_extensions/social_preview/preview_community_extension_zarr.png'
 layout: community_extension_doc
 ---

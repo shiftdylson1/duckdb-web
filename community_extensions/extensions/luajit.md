@@ -74,8 +74,8 @@ docs:
 
 extension_star_count: 4
 extension_star_count_pretty: 4
-extension_download_count: 343
-extension_download_count_pretty: 343
+extension_download_count: 356
+extension_download_count_pretty: 356
 image: '/images/community_extensions/social_preview/preview_community_extension_luajit.png'
 layout: community_extension_doc
 ---
